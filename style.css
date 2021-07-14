@@ -78,7 +78,7 @@ body{
     margin-top: 100px;
 }
 .players{
-    margin-left:20% ;
+    margin: 0 auto  ;
     width: 1050px;
      display: grid;
      grid-template-columns: repeat(3, 1fr)!important;
